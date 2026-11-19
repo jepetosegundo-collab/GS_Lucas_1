@@ -1,0 +1,72 @@
+============================================
+             RELATORIO SPORTLIFE
+============================================
+
+Ambiente monitorado: Centro esportivo comunitario
+Quantidade de leituras: 3
+
+CRITERIOS DE REFERENCIA
+Temperatura: ate 30 graus Celsius
+PM2.5: ate 50 microgramas por metro cubico (media de 24 horas)
+Ruido: ate 65 dB (periodo diurno)
+
+ESTATISTICAS AMBIENTAIS
+
+TEMPERATURA DO AR
+Media: 28.33 graus Celsius
+Maior valor: 32.0 graus Celsius
+Menor valor: 25.0 graus Celsius
+Ocorrencias acima do criterio: 1
+
+MATERIAL PARTICULADO PM2.5
+Media: 36.67 microgramas por metro cubico
+Maior valor: 60.0 microgramas por metro cubico
+Menor valor: 20.0 microgramas por metro cubico
+Ocorrencias acima do criterio: 1
+
+RUIDO AMBIENTAL
+Media aritmetica descritiva: 58.33 dB
+Maior valor: 70.0 dB
+Menor valor: 50.0 dB
+Ocorrencias acima do criterio: 1
+
+RESUMO DAS OCORRENCIAS
+Leituras criticas unicas: 1
+Percentual de leituras criticas: 33.33%
+
+CLASSIFICACAO GERAL
+Estado geral: condições ambientais de atenção, com frequência de ocorrências acima do critério estabelecido
+
+DETALHAMENTO DAS LEITURAS
+
+Leitura 1
+Temperatura: 25.0 graus Celsius
+PM2.5: 20.0 microgramas por metro cubico
+Ruido: 50.0 dB
+Situacao: Dentro dos limites de referencia.
+
+Leitura 2
+Temperatura: 32.0 graus Celsius
+PM2.5: 60.0 microgramas por metro cubico
+Ruido: 70.0 dB
+Situacao: Foram identificados alertas.
+- Temperatura acima de 30 graus Celsius.
+- PM2.5 acima de 50 microgramas por metro cubico.
+- Ruido acima de 65 dB no periodo diurno.
+
+Leitura 3
+Temperatura: 28.0 graus Celsius
+PM2.5: 30.0 microgramas por metro cubico
+Ruido: 55.0 dB
+Situacao: Dentro dos limites de referencia.
+
+OBSERVACOES
+Os dados utilizados sao simulados e informados pelo usuario.
+O sistema nao realiza medicoes ambientais reais.
+A media aritmetica do ruido e uma estatistica descritiva simplificada.
+Ela nao corresponde a uma avaliacao acustica oficial.
+A temperatura do ar isolada nao determina a seguranca para exercicios.
+
+============================================
+          FIM DO RELATORIO SPORTLIFE
+============================================
